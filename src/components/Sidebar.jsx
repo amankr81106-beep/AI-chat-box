@@ -54,7 +54,7 @@ function Sidebar({ sessions, activeSessionId, onNewSession, onSelectSession, onD
               AI
             </div>
             <div>
-              <p className="text-sm font-medium text-white">Antigravity Agent</p>
+              <p className="text-sm font-medium text-white">Arise</p>
               <p className="text-xs text-gray-400">Groq Engine v2</p>
             </div>
           </div>
